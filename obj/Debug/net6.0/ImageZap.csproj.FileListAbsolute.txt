@@ -1,0 +1,12 @@
+C:\Users\doug\source\ImageZap\ImageZap\bin\Debug\net6.0\ImageZap.deps.json
+C:\Users\doug\source\ImageZap\ImageZap\bin\Debug\net6.0\ImageZap.dll
+C:\Users\doug\source\ImageZap\ImageZap\bin\Debug\net6.0\ImageZap.pdb
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.csproj.AssemblyReference.cache
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.AssemblyInfoInputs.cache
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.AssemblyInfo.cs
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.csproj.CoreCompileInputs.cache
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.dll
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\refint\ImageZap.dll
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ImageZap.pdb
+C:\Users\doug\source\ImageZap\ImageZap\obj\Debug\net6.0\ref\ImageZap.dll
